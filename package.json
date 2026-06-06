@@ -1,0 +1,15 @@
+{
+  "name": "mellat-captcha-solver",
+  "version": "1.0.0",
+  "description": "Automated payment bot with AntiCaptcha integration for Bank Mellat gateway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^21.0.0",
+    "@antiadmin/anticaptchaofficial": "^1.0.23",
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.0"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules/
+.env
+images/
+error-screenshot.png
